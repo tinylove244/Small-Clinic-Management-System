@@ -1,5 +1,14 @@
 # Small Clinic Management System - Documentation
 
+<p align="center">
+  <b>Name:</b> Ngô Quang Trường &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Student's ID:</b> 24110142
+</p>
+
+<p align="center">
+  <b>Subject:</b> Object - Oriented Programming
+</p>
+
+
 ## 1. OOA Analysis
 
 In the analysis phase, the system was divided into key objects:
